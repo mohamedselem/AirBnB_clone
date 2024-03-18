@@ -1,0 +1,1 @@
+solving web statics task
